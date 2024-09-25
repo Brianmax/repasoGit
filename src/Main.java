@@ -12,5 +12,7 @@ public class Main {
             System.out.println("i = " + i);
             System.out.println("i * i = " + i * i);
         }
+        System.out.println("Hola desde el Main");
+        System.out.println("Hola 2 desde el Main");
     }
 }
